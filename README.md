@@ -7,7 +7,7 @@
 <hr>
 
 ### 技術:
-- 一對多及多對多的關係資料庫<br>
+- 一對一、一對多及多對多關係資料庫<br>
 - 第三正規化實作<br>
 
 <hr>
@@ -26,5 +26,5 @@
 - all_ingrdeient:所有成分<br>
 - all_additive:所有添加劑<br>
 
+![Untitled vpd](https://user-images.githubusercontent.com/81628204/178177508-5f5a837c-6e77-4f70-8cd0-ed01b2feaef5.png)
 
-![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/81628204/178133640-1e8da97d-da7d-46b3-aac5-f74516d46c05.png)
